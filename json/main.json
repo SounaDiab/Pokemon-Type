@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "bug",
+        "value": "#9fc789"
+    },
+    {
+        "id": 2,
+        "name": "dark",
+        "value": "#90867d"
+    },
+    {
+        "id": 3,
+        "name": "dragon-1",
+        "value": "#7ba2ef"
+    },
+    {
+        "id": 4,
+        "name": "dragon-2",
+        "value": "#de6e58"
+    },
+    {
+        "id": 5,
+        "name": "electic",
+        "value": "#dbda1d"
+    },
+    {
+        "id": 6,
+        "name": "fairy",
+        "value": "#ff6ed9"
+    },
+    {
+        "id": 7,
+        "name": "fire",
+        "value": "#fc922e"
+    },
+    {
+        "id": 8,
+        "name": "flying-1",
+        "value": "#79c9ee"
+    },
+    {
+        "id": 9,
+        "name": "flying-2",
+        "value": "#bab3a3"
+    },
+    {
+        "id": 10,
+        "name": "ghost",
+        "value": "#b070ff"
+    },
+    {
+        "id": 11,
+        "name": "grass",
+        "value": "#90e484"
+    },
+    {
+        "id": 12,
+        "name": "ground-1",
+        "value": "#e9e75e"
+    },
+    {
+        "id": 13,
+        "name": "ground-2",
+        "value": "#af8f3a"
+    },
+    {
+        "id": 14,
+        "name": "Ice",
+        "value": "#2cd9d3"
+    },
+    {
+        "id": 15,
+        "name": "normal",
+        "value": "#b6b5b1"
+    },
+    {
+        "id": 16,
+        "name": "poison",
+        "value": "#d28ee3"
+    },
+    {
+        "id": 17,
+        "name": "psychic",
+        "value": "#ef55b3"
+    },
+    {
+        "id": 18,
+        "name": "rock",
+        "value": "#c4a966"
+    },
+    {
+        "id": 19,
+        "name": "steel",
+        "value": "#b7bad9"
+    },
+    {
+        "id": 20,
+        "name": "water",
+        "value": "#5f93ff"
+    },
+    {
+        "id": 21,
+        "name": "fighting",
+        "value": "#f56f6c"
+    },
+    {
+        "id": 22,
+        "name": "Yellow",
+        "value": "#fffc08"
+    },
+    {
+        "id": 23,
+        "name": "Super-effective",
+        "value": "#fc6d04"
+    },
+    {
+        "id": 24,
+        "name": "effective",
+        "value": "#fffdff"
+    },
+    {
+        "id": 25,
+        "name": "not-very-effective",
+        "value": "#47c1c6"
+    },
+    {
+        "id": 26,
+        "name": "no-effect",
+        "value": "#ff00ff"
+    }
+]
